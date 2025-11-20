@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Muhammad Wildan Jamil
 
-🎓 Digital Business & Computer Science | 📍 Institute of Technology and Business STIKOM Bali <br/>
-💻 Front-End Developer exploring the path to AI Engineering
+🎓 Information Systems | 📍 Bina Sarana Informatika University <br/>
+💻 Front-End Developer | Back-End Developer | UI/UX 
 
 ---
 ###
@@ -16,26 +16,25 @@
 
 ## About Me
 
-I’m Wayan, a junior front-end developer passionate about crafting interactive and visually consistent web experiences. I enjoy working with React, Next.js, and Tailwind CSS to build responsive designs that feel smooth across devices. With a background in digital business and tech, I combine creativity and logic to deliver clean, maintainable code while continuously learning advanced patterns and design principles.
+I'm Muhammad Wildan Jamil, a dedicated professional in software development and design with 1 year of experience. My journey began with an interest in how technology can solve everyday problems, leading to my expertise in website development and UI/UX design.
+
+I pride myself on my ability to translate complex ideas into functional and beautiful solutions. I also possess skills in graphic design and video editing, with a year of experience as a social media admin.
 
 ---
 
 ## 🧠 My Focus Areas
 
-### 🎨 Front-End Development
-- HTML, CSS, JavaScript
+###  Front-End Development
+- HTML, CSS, JavaScript, PHP
 - React & Next.js
 - Responsive, accessible UI/UX
 
-### 🪙 Blockchain
-- Solidity & Smart Contracts
-- Web3.js / ethers.js
-- dApp development & NFT experiments
+###  Back-End Development
+- Laravel, Express.Js, NextJs
+- Application Programming Interface
 
-### 🤖 AI & Machine Learning
-- Python for Data Science
-- Machine Learning & Deep Learning (TensorFlow, PyTorch)
-- Applied AI in Business & Web
+
+
 
 ---
 
