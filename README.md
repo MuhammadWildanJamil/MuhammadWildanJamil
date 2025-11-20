@@ -18,8 +18,6 @@
 
 I'm Muhammad Wildan Jamil, a dedicated professional in software development and design with 1 year of experience. My journey began with an interest in how technology can solve everyday problems, leading to my expertise in website development and UI/UX design.
 
-I pride myself on my ability to translate complex ideas into functional and beautiful solutions. I also possess skills in graphic design and video editing, with a year of experience as a social media admin.
-
 ---
 
 ## 🧠 My Focus Areas
